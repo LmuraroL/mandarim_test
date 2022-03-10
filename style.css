@@ -1,3 +1,6 @@
+*{
+  display: flex;
+}
 .container {
 padding: auto;
 border: 0;

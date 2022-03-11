@@ -1,0 +1,40 @@
+#nav-img {
+  max-width: fit-content;
+  max-height: fit-content;
+  text-align: center;
+  padding: 0px !important ;
+ }
+ #news-img {
+  max-width: 100%;
+  max-height: 100%;
+  text-align: center;
+ }
+ #news {
+   text-align: center;
+ }
+ #news p{
+   padding: 0;
+   text-align: center;
+ }
+ #kobe{
+   padding: 0;
+   text-align: center;
+}
+#kobe img{
+  max-width: fit-content;
+  max-height: fit-content;
+}
+#whatsapp{
+  padding: 0;
+  text-align: center;
+}
+#whatsapp img{
+  max-width: fit-content;
+  max-height: fit-content;
+}
+#footer {
+  max-width: 100%;
+  max-height: 100%;
+  text-align: center;
+  padding: 0px !important ;
+ }
